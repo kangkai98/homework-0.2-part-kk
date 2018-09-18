@@ -124,8 +124,8 @@ void book_sport_menu(){
     printf("Please enter your choice: \n");
 }
 void book_region_menu(){
-	getchar();
-	system("cls");
+    getchar();
+    system("cls");
     printf("********************* Region ************************\n");
     printf("*                1.  BEI_CP				*\n");
     printf("*                2.  BEI_HD		                *\n");
@@ -135,8 +135,8 @@ void book_region_menu(){
     printf("Please enter your choice: \n");
 }
 void sort_menu(void){
-	getchar();
-	system("cls");
+    getchar();
+    system("cls");
     printf("********************** Sort *************************\n");
     printf("*                1.  Rent ¡ü			*\n");	
     printf("*                2.  Rent ¡ý                        *\n");	
@@ -159,8 +159,8 @@ void cos_modify_menu(){
     printf("Please enter your choice: \n");
 }
 void adm_modify_menu(){
-	getchar();
-	system("cls");
+    getchar();
+    system("cls");
     printf("*************** Administrator Modify ****************\n");
     printf("*                1. phone number        		*\n");
     printf("*                2. key         			*\n");
