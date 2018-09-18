@@ -12,8 +12,8 @@ void main_menu(void){	   					//1
     printf("Please enter your choice: \n");
 }
 void user_func_menu(void){					//1.1
-	getchar();
-	system("cls");
+    getchar();
+    system("cls");
     printf("******************* User Function *******************\n");
     printf("*                1.  Query and Reserve		*\n");
     printf("*                2.  Modify personal information    *\n");
@@ -44,8 +44,8 @@ void reserve_management_menu(void){                   //1.2.1
     printf("Please enter your choice: \n");
 }
 void count_order_menu(void){	 					//1.2.1.2
-	getchar();
-	system("cls");
+    getchar();
+    system("cls");
     printf("******************* Count Order *********************\n");
     printf("*                1. Sort by quantity 		*\n");
     printf("*                2. Sort by turnover 		*\n");
@@ -91,8 +91,8 @@ void search_menu(void){
     printf("Please enter your choice: \n");
 }
 void category_menu(void){
-	getchar();
-	system("cls");
+    getchar();
+    system("cls");
     printf("******************** Category ***********************\n");
     printf("*                1.  Venue				*\n");
     printf("*                2.  Sport			        *\n");
@@ -113,8 +113,8 @@ void book_venue_menu(){
     printf("Please enter your choice: \n");
 }
 void book_sport_menu(){
-	getchar();
-	system("cls");
+    getchar();
+    system("cls");
     printf("********************* Sport *************************\n");
     printf("*                1.  Soccer				*\n");
     printf("*                2.  Basketball                     *\n");
